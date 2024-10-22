@@ -1,0 +1,4 @@
+name: PatikliClanWarsExt
+version: '1.0.0'
+main: com.patik.patikliClanWarsExt.PatikliClanWarsExt
+api-version: '1.19'

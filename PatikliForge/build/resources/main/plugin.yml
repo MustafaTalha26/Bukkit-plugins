@@ -1,0 +1,4 @@
+name: PatikliForge
+version: '1.0.0'
+main: com.patik.patikliForge.PatikliForge
+api-version: '1.19'

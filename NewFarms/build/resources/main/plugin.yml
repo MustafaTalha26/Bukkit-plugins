@@ -1,0 +1,4 @@
+name: NewFarms
+version: '1.0.0'
+main: com.skyblock.newFarms.NewFarms
+api-version: '1.19'

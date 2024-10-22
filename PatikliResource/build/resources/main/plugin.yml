@@ -1,0 +1,4 @@
+name: PatikliResource
+version: '1.0.0'
+main: com.patik.patikliResource.PatikliResource
+api-version: '1.19'

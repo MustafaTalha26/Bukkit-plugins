@@ -1,0 +1,4 @@
+name: PatikliAuction
+version: '1.0.0'
+main: com.patik.patikliAuction.PatikliAuction
+api-version: '1.19'
